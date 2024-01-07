@@ -1,5 +1,7 @@
 # Node Hello World
 
+Video:  https://www.youtube.com/watch?v=i5oU38ejlfI
+
 Simple node.js app that servers "A Monk in Cloud"
 
 Great for testing simple deployments on Cloud
